@@ -1,5 +1,5 @@
-Install MKL:
-tar -zxvf l_mkl_11.3.0.109.tgz
+Install MKL from Intel MKL website:
+tar -zxvf l_mkl_2019.2.187.tgz
 sudo ./install.sh
 Make sure to include IA32 as well
 
